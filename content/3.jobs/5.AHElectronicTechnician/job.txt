@@ -1,0 +1,16 @@
+title: Mudpump control system Engineer
+-
+date: 2008–2004
+-
+preview: A&H Armature Works Inc
+-
+item: job
+-
+content:  
+<li>Conducted entire refurbishment of the electronic components of General Electric’s mud pumps</li>
+<li>Installed, rewired, and tested high voltage generators for mud pumps</li>
+<li>Rewired and upgraded the entire electrical system of 1980 mud pumps</li>
+<li>Installed and upgraded control switches</li>
+<li>Maintained and troubleshoot the electrical system of mud pump once installed on site</li>
+<li>Provided telephone technical support for offshore drillers</li>
+<li>Filled the position as a summer job after 2009 while a full time student in CA</li>

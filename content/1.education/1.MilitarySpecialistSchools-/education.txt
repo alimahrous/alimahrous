@@ -1,0 +1,10 @@
+title: Electronic Technician Specialist Schools
+-
+date: 2002-2003
+-
+preview: USMC Communication Electronics, Ordnance Munitions & Electronics Maintenance School
+-
+item: school
+-
+content: 
+This was military specialist school I learned AC/DC circuit troubleshooting and also modular trouble shooting.

@@ -1,0 +1,113 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+  "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+  <head>
+    <meta http-equiv="Content-type" content="text/html; charset=utf-8">
+    <title>Skills, Ali Mahrous's Portfolio </title>
+    <link rel="alternate" type="application/atom+xml" href="../?/feed/">
+    <link rel="stylesheet" href="../public/docs/css/screen.css" type="text/css" media="screen"> 
+  </head>
+  <body>
+    <div id="container">
+      <h1 class="col three">
+        <a href="../">Ali Mahrous</a>
+        <strong>System Electronics Analyst</strong>
+      </h1>
+      <em class="col three"><p><a href="&#x6d;&#x61;&#105;&#108;&#116;o&#x3a;&#x61;&#x6c;&#105;&#46;m&#x61;&#x68;&#x72;&#111;&#117;&#115;&#x40;&#x6d;&#x65;&#46;&#99;&#111;&#x6d;">&#x61;&#x6c;&#105;&#46;m&#x61;&#x68;&#x72;&#111;&#117;&#115;&#x40;&#x6d;&#x65;&#46;&#99;&#111;&#x6d;</a></p>
+</em>
+      <hr>
+      <ul id="navigation" class="col two">
+      <li>
+      <nav><a href="../education/">Education</a></nav>
+        <ol class="children">
+      <li>
+      <a href="../education/UniversityofCaliforniaSanDiego/">UniversityofCaliforniaSanDiego</a>
+      
+    </li>
+      <li>
+      <a href="../education/UniversityofCaliforniaBerkeley/">UniversityofCaliforniaBerkeley</a>
+      
+    </li>
+      <li>
+      <a href="../education/MilitarySpecialistSchools-/">MilitarySpecialistSchools-</a>
+      
+    </li>
+  
+  </ol>
+
+    </li>
+      <li>
+      <nav><a href="../skills/">Skills</a></nav>
+        <ol class="children">
+      <li>
+      <a href="../skills/technican-skills/">Technican Skills</a>
+      
+    </li>
+      <li>
+      <a href="../skills/research-skills/">Research Skills</a>
+      
+    </li>
+      <li>
+      <a href="../skills/communication-skills/">Communication Skills</a>
+      
+    </li>
+  
+  </ol>
+
+    </li>
+      <li>
+      <nav><a href="../jobs/">Jobs</a></nav>
+        <ol class="children">
+      <li>
+      <a href="../jobs/AHElectronicTechnician/">AHElectronicTechnician</a>
+      
+    </li>
+      <li>
+      <a href="../jobs/USMCElectronicTechnician/">USMCElectronicTechnician</a>
+      
+    </li>
+      <li>
+      <a href="../jobs/USMCAnalyst/">USMCAnalyst</a>
+      
+    </li>
+  
+  </ol>
+
+    </li>
+  
+</ul>
+
+      <div id="content" class="col eight">
+        <ul class="jobs">
+          <li class="col seven">
+        <p class="date col one"></p>
+        <h2 class="col five">
+          
+          <a href="../skills/technican-skills/">Microsoft Offi., C++, SQL, Ruby, HTML, JavaScript</a>
+        </h2>
+      </li>
+          <li class="col seven">
+        <p class="date col one"></p>
+        <h2 class="col five">
+          
+          <a href="../skills/research-skills/">Interdisciplinary Research, Read Scientific Papers</a>
+        </h2>
+      </li>
+          <li class="col seven">
+        <p class="date col one"></p>
+        <h2 class="col five">
+          <img src="../content/2.skills/1.communication-skills/thumb.jpg" class="job-thumb" alt=""> 
+          <a href="../skills/communication-skills/">Technical Communication, Multidisciplinary Writing</a>
+        </h2>
+      </li>
+    
+  </ul>
+
+      </div>
+      <hr>
+      <p id="footer" class="col six">&copy; Copyright Ali Mahrous 2015 <a class="atom-rss" href="../?/feed/">RSS</a><br>
+        
+    </div>
+  </body>
+</html>
+<!-- Stacey(2.3.0): 15348c8e37479412fff8050a6812d645 -->

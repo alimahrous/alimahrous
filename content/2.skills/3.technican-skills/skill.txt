@@ -1,0 +1,13 @@
+title: Microsoft Office, Adobe Package,
+       C++, SQL, Ruby, HTML, JavaScript
+	   
+-
+date: 
+-
+preview: 
+-
+item: skill
+-
+content: 
+
+

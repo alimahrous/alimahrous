@@ -1,0 +1,18 @@
+title: Electronic Technician
+-
+date: 2002-2007
+-
+preview: United States Marine Corps
+-
+item: job
+-
+content:  
+<li>Served as an Electronic Technician for military air-ground communication systems</li>
+<li>Installed, tested, maintained and repaired aviation, air and ground, radio equipment</li>
+<li>Conducted shop level repairs on a modular and circuit level</li>
+<li>Performed system maintenance duties for the Avenger Weapons System including inspections, testing and field level repairs</li>
+<li>Performed and supervised installations, alignments, inspections, testing, calibrations and maintenance</li>
+of various electronic equipment including testing equipment
+<li>Conducted maintenance training programs; prepared and submitted operational reports, forms and logs</li>
+<li>Conducted routine calibrations on the Laser Range Finder System and other infrared optical systems</li>
+

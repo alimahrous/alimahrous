@@ -1,0 +1,16 @@
+title: Security Analyst Administrator
+-
+date: 2004-2004
+-
+preview: United States Marine Corps
+-
+item: job
+-
+content: 
+<li>Oversaw the administration of policies regarding companies’ employee access on military facilities</li>
+<li>Implemented operating procedure based on policies</li>
+<li>Delivered daily and weekly reports, detailing access data</li>
+<li>Conducted database management, using the Biometric Automated</li>
+Toolset System and Microsoft Excel</li>
+<li>Reviewed, screened and processed applications of employment,
+including background checks, interviews reviews and upon approval issue identification</li>

@@ -1,0 +1,10 @@
+title: B.A Congitive Science
+-
+date: 2011-2014
+-
+preview: University of California San Diego
+-
+item: school
+-
+content: 
+

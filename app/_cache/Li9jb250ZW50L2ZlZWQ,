@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="utf-8"?>
+  <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+
+  <title>Ali Mahrous's Portfolio Feed</title>
+  <subtitle>System Electronics Analyst</subtitle>
+  <link href="http://alimahrous.com/feed/" hreflang="en" rel="self" type="application/atom+xml"/>
+  <link href="http://alimahrous.com/" hreflang="en" rel="alternate" type="text/html"/>
+  
+  <updated>2015-05-21T19:56:28+10:00</updated>
+  <generator uri="http://staceyapp.com/" version="2.3.0">Stacey</generator>
+
+  <author>
+    <name>Ali Mahrous</name>
+    <uri>http://alimahrous.com</uri>
+  </author>
+
+  <id>tag:alimahrous.com,2015:/feed/</id>
+  <rights>©2015 Ali Mahrous</rights>
+    <entry>
+   <title>Education</title>
+   <id>tag:alimahrous.com,2015:/education/</id>
+   <updated>2015-05-21T17:37:45+10:00</updated>
+   <link rel="alternate" type="text/html" href="http://alimahrous.com/education/" />
+   <content type="xhtml" xml:lang="en">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+          
+          
+      </div>
+   </content>
+</entry>
+    <entry>
+   <title>B.A Congitive Science</title>
+   <id>tag:alimahrous.com,2015:/education/UniversityofCaliforniaSanDiego/</id>
+   <updated>2015-05-21T17:37:42+10:00</updated>
+   <link rel="alternate" type="text/html" href="http://alimahrous.com/education/UniversityofCaliforniaSanDiego/" />
+   <content type="xhtml" xml:lang="en">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+          
+          
+            
+
+          
+      </div>
+   </content>
+</entry>
+  
+  <entry>
+   <title>B.A Interdiciplinary Feild Studies (pending)</title>
+   <id>tag:alimahrous.com,2015:/education/UniversityofCaliforniaBerkeley/</id>
+   <updated>2015-05-21T17:37:19+10:00</updated>
+   <link rel="alternate" type="text/html" href="http://alimahrous.com/education/UniversityofCaliforniaBerkeley/" />
+   <content type="xhtml" xml:lang="en">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+          
+          
+            <p><a href="http://isf.ugis.berkeley.edu/">I conducted research through a completely research-driven major offered by Cal</a>. I was able to study any subject that will help answer a research question. The result is a rigorously-researched 40 page required Senior Thesis. <a href="www.marousster.com">Here is a rought draft</a>.</p>
+
+          
+      </div>
+   </content>
+</entry>
+  
+  <entry>
+   <title>Electronic Technician Specialist Schools</title>
+   <id>tag:alimahrous.com,2015:/education/MilitarySpecialistSchools-/</id>
+   <updated>2015-05-21T17:37:13+10:00</updated>
+   <link rel="alternate" type="text/html" href="http://alimahrous.com/education/MilitarySpecialistSchools-/" />
+   <content type="xhtml" xml:lang="en">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+          
+          
+            <p>This was military specialist school I learned AC/DC circuit troubleshooting and also modular trouble shooting.</p>
+
+          
+      </div>
+   </content>
+</entry>
+  
+
+  <entry>
+   <title>Skills</title>
+   <id>tag:alimahrous.com,2015:/skills/</id>
+   <updated>2015-05-21T17:37:04+10:00</updated>
+   <link rel="alternate" type="text/html" href="http://alimahrous.com/skills/" />
+   <content type="xhtml" xml:lang="en">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+          
+          
+      </div>
+   </content>
+</entry>
+    <entry>
+   <title>Microsoft Offi., C++, SQL, Ruby, HTML, JavaScript</title>
+   <id>tag:alimahrous.com,2015:/skills/technican-skills/</id>
+   <updated>2015-05-21T17:37:02+10:00</updated>
+   <link rel="alternate" type="text/html" href="http://alimahrous.com/skills/technican-skills/" />
+   <content type="xhtml" xml:lang="en">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+          
+          
+            
+
+          
+      </div>
+   </content>
+</entry>
+  
+  <entry>
+   <title>Interdisciplinary Research, Read Scientific Papers</title>
+   <id>tag:alimahrous.com,2015:/skills/research-skills/</id>
+   <updated>2015-05-21T17:36:58+10:00</updated>
+   <link rel="alternate" type="text/html" href="http://alimahrous.com/skills/research-skills/" />
+   <content type="xhtml" xml:lang="en">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+          
+          
+            
+
+          
+      </div>
+   </content>
+</entry>
+  
+  <entry>
+   <title>Technical Communication, Multidisciplinary Writing</title>
+   <id>tag:alimahrous.com,2015:/skills/communication-skills/</id>
+   <updated>2015-05-21T17:36:54+10:00</updated>
+   <link rel="alternate" type="text/html" href="http://alimahrous.com/skills/communication-skills/" />
+   <content type="xhtml" xml:lang="en">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+          
+          
+            
+
+          
+      </div>
+   </content>
+</entry>
+  
+
+  <entry>
+   <title>Jobs</title>
+   <id>tag:alimahrous.com,2015:/jobs/</id>
+   <updated>2015-05-21T17:36:45+10:00</updated>
+   <link rel="alternate" type="text/html" href="http://alimahrous.com/jobs/" />
+   <content type="xhtml" xml:lang="en">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+          
+          
+      </div>
+   </content>
+</entry>
+    <entry>
+   <title>Mudpump control system Engineer</title>
+   <id>tag:alimahrous.com,2015:/jobs/AHElectronicTechnician/</id>
+   <updated>2015-05-21T17:36:43+10:00</updated>
+   <link rel="alternate" type="text/html" href="http://alimahrous.com/jobs/AHElectronicTechnician/" />
+   <content type="xhtml" xml:lang="en">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+            <img src="./content/1.jobs/5.AHElectronicTechnician/frontier-driller_drillers-console.jpg" alt="Frontier driller drillers console." />
+
+          
+            <p><li>Conducted entire refurbishment of the electronic components of General Electric’s mud pumps</li>
+<li>Installed, rewired, and tested high voltage generators for mud pumps</li>
+<li>Rewired and upgraded the entire electrical system of 1980 mud pumps</li>
+<li>Installed and upgraded control switches</li>
+<li>Maintained and troubleshoot the electrical system of mud pump once installed on site</li>
+<li>Provided telephone technical support for offshore drillers</li>
+<li>Filled the position as a summer job after 2009 while a full time student in CA</li></p>
+
+          
+      </div>
+   </content>
+</entry>
+  
+  <entry>
+   <title>Electronic Technician</title>
+   <id>tag:alimahrous.com,2015:/jobs/USMCElectronicTechnician/</id>
+   <updated>2015-05-21T17:36:32+10:00</updated>
+   <link rel="alternate" type="text/html" href="http://alimahrous.com/jobs/USMCElectronicTechnician/" />
+   <content type="xhtml" xml:lang="en">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+            <img src="./content/1.jobs/4.USMCElectronicTechnician/ELEC_Harris_Falcon_II_Multiband_Radio_lg.jpg" alt="ELEC Harris Falcon II Multiband Radio lg." />
+  <img src="./content/1.jobs/4.USMCElectronicTechnician/Avenger_AN-TWQ-1_short-range_pedestral_mounted_air_defence_missile_system_US_United_States_army_line_drawing_blueprint_001.jpg" alt="Avenger AN TWQ 1 short range pedestral mounted air defence missile system US United States army line drawing blueprint 001." />
+
+          
+            <p><li>Served as an Electronic Technician for military air-ground communication systems</li>
+<li>Installed, tested, maintained and repaired aviation, air and ground, radio equipment</li>
+<li>Conducted shop level repairs on a modular and circuit level</li>
+<li>Performed system maintenance duties for the Avenger Weapons System including inspections, testing and field level repairs</li>
+<li>Performed and supervised installations, alignments, inspections, testing, calibrations and maintenance</li>
+of various electronic equipment including testing equipment
+<li>Conducted maintenance training programs; prepared and submitted operational reports, forms and logs</li>
+<li>Conducted routine calibrations on the Laser Range Finder System and other infrared optical systems</li></p>
+
+          
+      </div>
+   </content>
+</entry>
+  
+  <entry>
+   <title>Security Analyst Administrator</title>
+   <id>tag:alimahrous.com,2015:/jobs/USMCAnalyst/</id>
+   <updated>2015-05-21T17:36:21+10:00</updated>
+   <link rel="alternate" type="text/html" href="http://alimahrous.com/jobs/USMCAnalyst/" />
+   <content type="xhtml" xml:lang="en">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+          
+          
+            <p><li>Oversaw the administration of policies regarding companies’ employee access on military facilities</li>
+<li>Implemented operating procedure based on policies</li>
+<li>Delivered daily and weekly reports, detailing access data</li>
+<li>Conducted database management, using the Biometric Automated</li>
+Toolset System and Microsoft Excel</li>
+<li>Reviewed, screened and processed applications of employment,
+including background checks, interviews reviews and upon approval issue identification</li></p>
+
+          
+      </div>
+   </content>
+</entry>
+  
+
+
+
+</feed>
+<!-- Stacey(2.3.0): 15348c8e37479412fff8050a6812d645 -->
